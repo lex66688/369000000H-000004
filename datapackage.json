@@ -1,0 +1,15 @@
+{
+  "name":"369000000H-000004",
+  "title":"公眾頻率分配",
+  "description":"行動通信業務頻率分配",
+  "license":"政府資料開放授權條款-第1版",
+  "homepage":null,
+  "sources":{
+    "name":"國家通訊傳播委員會"
+  },
+  "author":{
+    "name":"鄭盛丰 先生",
+    "email":"chengsf@ncc.gov.tw"
+  },
+  "keywords":"2G頻率、3G頻率、低功率無線電話、無線寬頻"
+}
